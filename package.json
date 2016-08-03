@@ -27,11 +27,11 @@
   },
   "scripts": {},
   "dependencies": {
-    "cucumber": "~0.5.2"
+    "cucumber": "^1.2.1"
   },
   "devDependencies": {
-    "grunt": "~0.4.0",
-    "grunt-contrib-jshint": "~0.2.0"
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.0.0"
   },
   "keywords": [
     "gruntplugin",
